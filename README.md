@@ -7,8 +7,9 @@
 - [Application Documentation](https://docs.google.com/document/d/19y_2Z2h8a4nK_kznD7BpTyaijFbSvPBnF-2k-PqFUpI/edit?usp=sharing)
 - [Server Design and Performance Documentation](https://docs.google.com/document/d/1XsRCAhwCMktE8sa5x5Ug_TZKpJUFlj9lO4Z_fmu4F5U/edit?usp=sharing)
 - [Database Design Document](https://docs.google.com/document/d/1GbG00t6es6XD8rnQmQBWQ5MXRXZyd3XpYeCh5JLNLN0/edit?usp=sharing)
+- [ER Digram](https://docs.google.com/document/d/1DhPehCcUAxzLiIHvb9vHMCsbhPjaDTO3CJoSNH9s8OU/edit?usp=sharing)
 - [Application Demo Video](https://drive.google.com/file/d/1spds-vsX7Ds7xGDg384MLyLvPwamXRqu/view?usp=sharing)
-
+  
 ## Repository Structure
 
 The repository is organized into two main directories:
