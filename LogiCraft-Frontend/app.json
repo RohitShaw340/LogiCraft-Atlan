@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "LogiCraft-Atlan",
+    "slug": "LogiCraft-Atlan",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logi-craft.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.rohitshaw_340.LogiCraftAtlan"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fdeae55c-3448-4743-8d9d-20c0888b3b5e"
+      }
+    }
+  }
+}
